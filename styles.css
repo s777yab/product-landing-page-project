@@ -1,0 +1,26 @@
+#nav-bar {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  padding: 10;
+  background-color: pink
+}
+
+#nav-bar a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+#header {
+  margin-top: 100px
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+}
