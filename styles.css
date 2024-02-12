@@ -28,3 +28,7 @@
     background-color: lightblue;
   }
 }
+
+.container {
+  display: flex
+}
